@@ -1,5 +1,8 @@
-# MindCine
-[ICASSP 2026] MindCine: Multimodal EEG-to-Video Reconstruction with Large-Scale Pretrained Models
+<div align="center">
+
+<h2 style="border-bottom: 1px solid lightgray;">MindCine: Multimodal EEG-to-Video Reconstruction with Large-Scale Pretrained Models</h2>
+</div>
+
 
 <!-- Badges and Links Section -->
 <div style="display: flex; align-items: center; justify-content: center;">

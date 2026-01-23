@@ -11,12 +11,12 @@
   <p align="center">
     <!-- <a href='https://arxiv.org/pdf/2511.04078'><img src='http://img.shields.io/badge/Paper-arxiv.2511.04078-B31B1B.svg'></a> -->
     <!-- <a href='https://github.com/DanceSkyCode/Bratrix'> <img src='https://img.shields.io/badge/Project-Website-orange' alt='Project Page'></a> -->
-    <a href='https://huggingface.co/Tianyi1229/MindCine'><img src='https://img.shields.io/badge/Checkpoint_fMRI-%F0%9F%A4%97%20Hugging%20Face-blue'></a><br>
+    <a href='https://huggingface.co/Tianyi1229/MindCine'><img src='https://img.shields.io/badge/MindCine-%F0%9F%A4%97%20Hugging%20Face-blue'></a> <br>
     <a href="https://scholar.google.com/citations?user=VyLD9McAAAAJ&hl=zh-CN" target="_blank">Tian-Yi Zhou*</a>,
     <a href="https://scholar.google.com/citations?user=99yIdXAAAAAJ&hl=zh-CN" target="_blank">Xuan-Hao Liu*</a>,
     <a href="https://scholar.google.com/citations?user=709il6EAAAAJ&hl=zh-CN" target="_blank">Bao-Liang Lu</a>,
     <a href="https://scholar.google.com/citations?user=MZXXe8UAAAAJ&hl=zh-CN" target="_blank">Wei-Long Zheng†</a>,
-    <br>
+   c
      <p align="center">
     Shanghai Jiao Tong University
        </p>

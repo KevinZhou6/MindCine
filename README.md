@@ -16,7 +16,6 @@
     <a href="https://scholar.google.com/citations?user=99yIdXAAAAAJ&hl=zh-CN" target="_blank">Xuan-Hao Liu*</a>,
     <a href="https://scholar.google.com/citations?user=709il6EAAAAJ&hl=zh-CN" target="_blank">Bao-Liang Lu</a>,
     <a href="https://scholar.google.com/citations?user=MZXXe8UAAAAJ&hl=zh-CN" target="_blank">Wei-Long Zheng†</a>,
-   c
      <p align="center">
     Shanghai Jiao Tong University
        </p>

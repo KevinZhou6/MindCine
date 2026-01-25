@@ -32,7 +32,7 @@
 <div align="center">
 <!--  -->
 <div>
-<img src="images/Performance.png" alt="fig-genexample" style="max-width: 80%; height: auto;"/>  
+<img src="imgs/illustration.png" alt="fig-genexample" style="max-width: 80%; height: auto;"/>  
 </div>
 
 </div>
@@ -41,7 +41,7 @@ Brain Decoding Paradigms: Previous vs. Ours.
 
 <div align="center">
 <div>
-<img src="images/MindCine.png" alt="Framework" style="max-width: 80%; height: auto;"/>
+<img src="imgs/MindCine.png" alt="Framework" style="max-width: 80%; height: auto;"/>
 </div>
 </div>
 

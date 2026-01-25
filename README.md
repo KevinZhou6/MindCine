@@ -29,7 +29,40 @@
 
 </div>
 
+<div align="center">
+<!--  -->
+<div>
+<img src="images/Performance.png" alt="fig-genexample" style="max-width: 80%; height: auto;"/>  
+</div>
+
+</div>
+
+Brain Decoding Paradigms: Previous vs. Ours.
+
+<div align="center">
+<div>
+<img src="images/MindCine.png" alt="Framework" style="max-width: 80%; height: auto;"/>
+</div>
+</div>
+
+Overall architecture of MindCine.
+
+
+
 <!-- ## News -->
 <h2 style="border-bottom: 1px solid lightgray; margin-bottom: 5px;">✨ Update</h2>
 
 * **2026/01/21** MindCine is accepted by *ICASSP 2026*.
+
+
+
+<!-- ## Acknowledge -->
+<h2 style="border-bottom: 1px solid lightgray; margin-bottom: 5px;">😺Acknowledge</h2>
+
+We sincerely thank the following outstanding works and contributors:  
+
+1. **[EEG2Video](https://github.com/XuanhaoLiu/EEG2Video/tree/main)** — *EEG2Video: Towards Decoding Dynamic Visual Perception from EEG Signals*.  
+2. **[CognitionCapturer](https://github.com/XiaoZhangYES/CognitionCapturer/tree/main)** - *CognitionCapturer: Decoding Visual Stimuli from Human EEG Signals with Multimodal Information*.
+
+# 🏷️ License
+This repository is released under the MIT license. See [LICENSE](./LICENSE) for additional details.

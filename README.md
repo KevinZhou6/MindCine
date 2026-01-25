@@ -63,6 +63,7 @@ We sincerely thank the following outstanding works and contributors:
 
 1. **[EEG2Video](https://github.com/XuanhaoLiu/EEG2Video/tree/main)** — *EEG2Video: Towards Decoding Dynamic Visual Perception from EEG Signals*.  
 2. **[CognitionCapturer](https://github.com/XiaoZhangYES/CognitionCapturer/tree/main)** - *CognitionCapturer: Decoding Visual Stimuli from Human EEG Signals with Multimodal Information*.
+3. We use the **[BIOT](https://github.com/ycq091044/BIOT)**, **[LaBraM](https://github.com/935963004/LaBraM)**, **[EEGPT](https://github.com/BINE022/EEGPT)**, **[CBraMod](https://github.com/wjq-learning/CBraMod)**, **[Gram](https://github.com/iiieeeve/Gram)** to alleviate data scarcity.
 
 # 🏷️ License
 This repository is released under the MIT license. See [LICENSE](./LICENSE) for additional details.

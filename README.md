@@ -39,13 +39,13 @@
 
 Brain Decoding Paradigms: Previous vs. Ours.
 
-<div align="center">
+<!-- <div align="center">
 <div>
 <img src="imgs/MindCine.png" alt="Framework" style="max-width: 80%; height: auto;"/>
 </div>
 </div>
 
-Overall architecture of MindCine.
+Overall architecture of MindCine. -->
 
 
 

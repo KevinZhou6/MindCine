@@ -42,7 +42,7 @@ Brain Decoding Paradigms: Previous vs. Ours.
 <div align="center">
 <!--  -->
 <div>
-<img src="imgs/MindCine.png" alt="MindCine" style="max-width: 80%; height: auto;"/>  
+<img src="imgs/MindCine2.png" alt="MindCine" style="max-width: 80%; height: auto;"/>  
 </div>
 
 </div>

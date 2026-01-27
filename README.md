@@ -61,7 +61,7 @@ Brain Decoding Paradigms: Previous vs. Ours.
 <!-- ## Acknowledge -->
 <h2 style="border-bottom: 1px solid lightgray; margin-bottom: 5px;">😺Acknowledge</h2>
 
-We sincerely thank the following outstanding works and contributors:  
+We sincerely thank the following outstanding works:  
 
 1. **[EEG2Video](https://github.com/XuanhaoLiu/EEG2Video/tree/main)** — *EEG2Video: Towards Decoding Dynamic Visual Perception from EEG Signals*.  
 2. **[CognitionCapturer](https://github.com/XiaoZhangYES/CognitionCapturer/tree/main)** - *CognitionCapturer: Decoding Visual Stimuli from Human EEG Signals with Multimodal Information*.

@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#">
   <p align="center">
-    <!-- <a href='https://arxiv.org/pdf/2511.04078'><img src='http://img.shields.io/badge/Paper-arxiv.2511.04078-B31B1B.svg'></a> -->
+    <a href='https://arxiv.org/abs/2601.18192'><img src='http://img.shields.io/badge/Paper-arxiv.2511.04078-B31B1B.svg'></a>
     <!-- <a href='https://github.com/DanceSkyCode/Bratrix'> <img src='https://img.shields.io/badge/Project-Website-orange' alt='Project Page'></a> -->
     <a href='https://huggingface.co/Tianyi1229/MindCine'><img src='https://img.shields.io/badge/MindCine-%F0%9F%A4%97%20Hugging%20Face-blue'></a> <br>
     <a href="https://scholar.google.com/citations?user=VyLD9McAAAAJ&hl=zh-CN" target="_blank">Tian-Yi Zhou*</a>,

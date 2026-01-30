@@ -77,6 +77,7 @@ def ddim_loop(unet, ddim_scheduler, latent, num_inv_steps, prompt):
     
     # uncond_embeddings, cond_embeddings = context.chunk(2)
     # print(cond_embeddings.shape)
+    #[Optimization] Load pre-computed embeddings for empty text input ("").
     cond_embeddings=torch.load('cond_embeddings.pt',map_location='cpu')
     cond_embeddings = cond_embeddings.to('cuda',dtype=torch.float16)
     cond_embeddings =cond_embeddings.repeat(latent.shape[0],1,1)

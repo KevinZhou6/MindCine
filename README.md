@@ -61,7 +61,7 @@ Brain Decoding Paradigms: Previous vs. Ours.
 
 ```bash
 # 1. Clone this repo
-git clone https://github.com/YourUsername/Your-Repo-Name.git
+git clone https://github.com/KevinZhou6/MindCine.git
 cd Your-Repo-Name
 
 # 2. Create the Conda environment

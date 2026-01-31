@@ -56,6 +56,8 @@ Brain Decoding Paradigms: Previous vs. Ours.
 
 * **2026/01/21** MindCine is accepted by *ICASSP 2026*.
 
+<!-- ## Environment setup -->
+<h2 style="border-bottom: 1px solid lightgray; margin-bottom: 5px;">🛠️ Environment Setup</h2>
 
 ### Quick Start
 

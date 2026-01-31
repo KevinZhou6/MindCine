@@ -57,6 +57,20 @@ Brain Decoding Paradigms: Previous vs. Ours.
 * **2026/01/21** MindCine is accepted by *ICASSP 2026*.
 
 
+### Quick Start
+
+```bash
+# 1. Clone this repo
+git clone https://github.com/YourUsername/Your-Repo-Name.git
+cd Your-Repo-Name
+
+# 2. Create the Conda environment
+conda env create -f environment.yml
+
+# 3. Activate the environment
+conda activate MindCine
+```
+
 
 <!-- ## Acknowledge -->
 <h2 style="border-bottom: 1px solid lightgray; margin-bottom: 5px;">😺Acknowledge</h2>

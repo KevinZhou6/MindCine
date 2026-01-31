@@ -73,6 +73,18 @@ conda env create -f environment.yml
 conda activate MindCine
 ```
 
+<h2 style="border-bottom: 1px solid lightgray; margin-bottom: 5px;">👍 Citations</h2>
+
+If you find our work useful, please consider citing:
+
+```
+@article{zhou2026mindcine,
+  title={MindCine: Multimodal EEG-to-Video Reconstruction with Large-Scale Pretrained Models},
+  author={Zhou, Tian-Yi and Liu, Xuan-Hao and Lu, Bao-Liang and Zheng, Wei-Long},
+  journal={arXiv preprint arXiv:2601.18192},
+  year={2026}
+}
+```
 
 <!-- ## Acknowledge -->
 <h2 style="border-bottom: 1px solid lightgray; margin-bottom: 5px;">😺Acknowledge</h2>

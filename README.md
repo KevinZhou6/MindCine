@@ -47,7 +47,6 @@ Brain Decoding Paradigms: Previous vs. Ours.
 
 </div>
 
-Brain Decoding Paradigms: Previous vs. Ours.
 
 
 

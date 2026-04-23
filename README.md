@@ -28,7 +28,9 @@
 
 
 </div>
-You can also see the [poster](https://github.com/XuanhaoLiu/MindCross/blob/main/MindCross_poster.pdf) to breifly know our work.
+
+You can also see the [poster](https://github.com/KevinZhou6/MindCine/blob/main/imgs/icassp26_poster_zty.pdf) to breifly know our work.
+
 <div align="center">
 <!--  -->
 <div>

@@ -28,7 +28,7 @@
 
 
 </div>
-
+You can also see the [poster](https://github.com/XuanhaoLiu/MindCross/blob/main/MindCross_poster.pdf) to breifly know our work.
 <div align="center">
 <!--  -->
 <div>
